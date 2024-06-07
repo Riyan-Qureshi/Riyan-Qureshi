@@ -1,4 +1,6 @@
-## Hi there 👋
+### Hi there 👋
+
+I am **Riyan Qureshi**, a **Software Engineer** studying at **UBC**! Currently I am **seeking work opportunities at any level** to garner work experience that will both utilize and improve my expertise so I can help realize ideas that drive the future.
 
 <!--
 **Riyan-Qureshi/Riyan-Qureshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
